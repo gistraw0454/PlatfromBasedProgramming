@@ -24,18 +24,19 @@ public class Pattern {
 
 class Line {
     private final Characters first;
-    //private final Characters mid;
+    private final Characters mid;
 
     public Line(int n, int lineNum) {
         int starNum = n-lineNum+1;
-        //int spaceNum = n-lineNum;
+        int spaceNum = lineNum-1;
         first = new Characters('x', starNum);
-        //mid = new Characters(' ',spaceNum);
+        mid = new Characters('-',spaceNum);
     }
 
     public void print() {
-        //mid.print();
+
         first.print();
+        mid.print();
 
         System.out.println();
     }

@@ -36,6 +36,7 @@ class Line {
     public void print() {
         mid.print();
         first.print();
+        mid.print();
 
         System.out.println();
     }
