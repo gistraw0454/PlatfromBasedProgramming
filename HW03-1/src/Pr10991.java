@@ -28,7 +28,6 @@ public class Pr10991 implements LineFactory {
             }
         }
         charactersList.add(new Characters('-', spaceNum));  // 오른쪽에 - 추가
-
         return new Line(charactersList);
     }
 }
