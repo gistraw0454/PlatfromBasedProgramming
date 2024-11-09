@@ -22,8 +22,10 @@
       <module fileurl="file://$PROJECT_DIR$/HW03-2/HW03-2.iml" filepath="$PROJECT_DIR$/HW03-2/HW03-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW03-3/HW03-3.iml" filepath="$PROJECT_DIR$/HW03-3/HW03-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW03-4/HW03-4.iml" filepath="$PROJECT_DIR$/HW03-4/HW03-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid/Mid.iml" filepath="$PROJECT_DIR$/Mid/Mid.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidReview/MidReview.iml" filepath="$PROJECT_DIR$/MidReview/MidReview.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PlatfromBasedProgramming.iml" filepath="$PROJECT_DIR$/.idea/PlatfromBasedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid/Problem1/Problem1.iml" filepath="$PROJECT_DIR$/Mid/Problem1/Problem1.iml" />
     </modules>
   </component>
 </project>
