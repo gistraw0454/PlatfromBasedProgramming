@@ -6,7 +6,7 @@ public class Problem1 {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         scanner.close();
-        Pattern pattern = new Pattern(new Line11(n));
+        Pattern pattern = new Pattern(new Line12(n));
         pattern.print();
     }
 }
